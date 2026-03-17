@@ -2,7 +2,7 @@ import { Link } from 'react-router-dom';
 import { newsData } from '../data/newsData';
 
 const BreakingNews = () => {
-  const breakingNews = newsData.slice(0, 13);
+  const breakingNews = newsData.slice(0, 14);
 
   return (
     // TAMBAHKAN KELAS INI: sticky top-20 z-40 (karena navbar tingginya kira-kira 20 atau 5rem)

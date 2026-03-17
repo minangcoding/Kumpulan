@@ -4,7 +4,7 @@ import { newsData } from '../data/newsData';
 
 const Carousel = () => {
   // Mengambil 3 berita pertama untuk dijadikan Highlight di Carousel
-  const carouselItems = newsData.slice(0, 13);
+  const carouselItems = newsData.slice(0, 14);
   const [currentIndex, setCurrentIndex] = useState(0);
 
   // Fitur Autoplay: Geser tiap 5 detik
