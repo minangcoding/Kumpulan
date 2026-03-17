@@ -1,6 +1,34 @@
 export const newsData = [
   {
     id: 1,
+    title: "Mengenang Epik Perjuangan Tuanku Imam Bonjol: Sang Singa Podium dari Tanah Pasaman",
+    category: "Sejarah",
+    date: "17 Maret 2026",
+    // Menggunakan gambar ilustrasi sejarah dari Wikimedia/Internet
+    image: "https://i.ytimg.com/vi/-2vfvDP_EtM/sddefault.jpg", 
+    content: `**[Kumpulan, Bonjol, Pasaman]** – Menyebut nama Kecamatan Bonjol di Kabupaten Pasaman, ingatan kita pasti akan langsung tertuju pada satu sosok pahlawan nasional yang sangat karismatik, yakni Tuanku Imam Bonjol. Lahir di tanah ini pada tahun 1772, kisah perjuangannya melawan kolonialisme Belanda merupakan salah satu catatan sejarah paling heroik yang pernah terjadi di bumi Nusantara.
+
+**Dari Peto Hasan Menjadi Pemimpin Besar**
+Nama asli beliau adalah Muhammad Shahab, atau yang sewaktu muda akrab dipanggil Peto Hasan. Beliau lahir dari pasangan Khatib Bayanuddin (seorang alim ulama) dan Syatilah. Tumbuh di lingkungan religius, Peto Hasan menjelma menjadi sosok pemuda yang cerdas dan mendalami ilmu agama. Saat dewasa, beliau mendapat gelar Tuanku Imam Bonjol setelah ditunjuk menjadi tokoh sentral dan pemimpin umat di wilayah Bonjol. Kepemimpinannya yang tegas namun bijaksana membuatnya sangat dihormati oleh masyarakat Minangkabau.
+
+**Awal Mula Gerakan Paderi**
+Sejarah mencatat bahwa perjuangan Tuanku Imam Bonjol bermula dari gerakan pemurnian agama Islam di Minangkabau yang dipelopori oleh tiga orang haji yang baru pulang dari Mekah (Haji Miskin, Haji Sumanik, dan Haji Piobang). Gerakan Kaum Paderi ini bertujuan untuk memperbaiki kebiasaan-kebiasaan buruk di masyarakat adat saat itu, seperti sabung ayam, judi, dan mabuk-mabukan. Sayangnya, niat baik ini memicu gesekan antara Kaum Paderi dan Kaum Adat, yang pada akhirnya meletus menjadi konflik bersaudara.
+
+**Intervensi Belanda dan Meletusnya Perang Paderi (1803–1838)**
+Melihat adanya konflik internal ini, penjajah Belanda melihat celah emas. Pada tahun 1821, Kaum Adat yang merasa terdesak meminta bantuan kepada Belanda. Belanda pun masuk dengan persenjataan modern. Namun, menyadari bahwa Belanda justru berniat menguasai seluruh tanah Minangkabau, Kaum Paderi dan Kaum Adat akhirnya bersatu. Di bawah komando tertinggi Tuanku Imam Bonjol, bersatunya dua kubu ini menjadi mimpi buruk bagi Belanda. Perang Paderi berubah menjadi perang kemerdekaan yang sangat masif, menghabiskan jutaan gulden dan merenggut ribuan nyawa tentara Belanda.
+
+**Kejatuhan Benteng Bukit Tajadi dan Masa Pengasingan**
+Pusat pertahanan Tuanku Imam Bonjol berada di Benteng Bukit Tajadi, sebuah benteng alam yang sangat sulit ditembus karena posisinya di perbukitan Bonjol. Belanda harus mengepung benteng ini selama lebih dari tiga tahun, mendatangkan pasukan besar-besaran dari Jawa dan meriam-meriam artileri, sebelum akhirnya benteng tersebut jatuh pada 16 Agustus 1837. 
+
+Tuanku Imam Bonjol tidak pernah menyerah. Ia dibujuk untuk berunding di Palupuh, namun itu ternyata adalah taktik licik Belanda. Beliau ditangkap dan diasingkan berturut-turut ke Cianjur, Ambon, hingga akhirnya dipindahkan ke Lotak, Minahasa, dekat Manado. Di tempat pengasingan terakhir inilah sang Singa Podium menghembuskan napas terakhirnya pada tanggal 6 November 1864 dalam usia 92 tahun.
+
+**Warisan Abadi Sang Pahlawan**
+Kini, jejak perjuangan beliau diabadikan melalui Museum Tuanku Imam Bonjol dan Tugu Khatulistiwa di kampung halamannya. Kisah kepahlawanan, kegigihan mempertahankan akidah, serta keberaniannya melawan ketidakadilan terus menjadi inspirasi tak lekang waktu bagi generasi muda Pasaman dan seluruh rakyat Indonesia.`,
+    isHeadline: true,
+  },
+
+  {
+    id: 1,
     title: "Muhammad Fadel, S.Pd, Resmi Dinobatkan Sebagai Kiper Terbaik Musim Ini Bersama Team Kumpulan FC",
     category: "Olahraga",
     date: "10 Maret 2026",
@@ -109,5 +137,115 @@ Selain melihat koleksi satwa, Fadel juga menyusuri Jembatan Limpapeh, sebuah jem
 **Keseimbangan Alam dan Sejarah**
 Kawasan Kinantan menawarkan paket komplit antara wisata fauna, flora, sejarah, dan budaya Minangkabau (dengan adanya Rumah Adat Baanjuang di dalam kompleks). Bagi Fadel, menghabiskan waktu di kawasan ini memberikan kepuasan tersendiri. Berbaur dengan alam dan melihat tingkah pola satwa memberikan ketenangan batin. Kunjungan ke Kebun Binatang Kinantan ini pun menjadi penutup manis dari rangkaian eksplorasinya di kota Bukittinggi.`,
     isHeadline: false,
+  },
+  {
+    id: 7,
+    title: "Muhammad Fadel Sukses Kembangkan Intek Future AI, Tool Editing Gambar Revolusioner",
+    category: "Teknologi",
+    date: "14 Maret 2026",
+    image: "https://www.gadaibpkb.co.id/wp-content/uploads/2024/08/Gadai-BPKB-Motor.jpeg", 
+    content: `**[Kumpulan, Bonjol, Pasaman]** – Tidak hanya aktif di lapangan hijau dan alam bebas, Muhammad Fadel juga menunjukkan taringnya di dunia digital. Ia baru saja memperkenalkan proyek terbarunya bernama Intek Future AI, sebuah platform pengeditan gambar masa depan yang sebelumnya dikenal dalam purwarupa BiruVision AI.
+
+**Fitur Canggih Berbasis Kecerdasan Buatan**
+Aplikasi berbasis web ini dikembangkan menggunakan tumpukan teknologi modern seperti React JS dan Vite untuk memastikan performa yang super cepat. Intek Future AI membawa berbagai fitur unggulan, di antaranya adalah Outfit Changer yang memungkinkan pengguna memodifikasi pakaian secara digital dengan mulus, hingga fitur Image Blender untuk menggabungkan dua visual dengan presisi tinggi.
+
+**Dedikasi pada Pengembangan Web**
+Bagi Fadel, dunia *web development* adalah ruang eksplorasi tanpa batas. Selain proyek Intek Future AI, ia juga diketahui sedang merampungkan beberapa Progressive Web App (PWA) lainnya, termasuk aplikasi edukasi dan kalkulator Zakat yang terintegrasi secara *real-time*. Karya-karya ini menjadi bukti nyata dedikasinya dalam menciptakan solusi teknologi yang bermanfaat bagi masyarakat luas.`,
+    isHeadline: false,
+  },
+  {
+    id: 8,
+    title: "Desain Infografis Kendaraan Taktis: Menilik Detail Mobil Spectromar dan Black SUV",
+    category: "Otomotif",
+    date: "10 Maret 2026",
+    image: "https://www.gadaibpkb.co.id/wp-content/uploads/2024/08/Gadai-BPKB-Mobil.jpeg",
+    content: `**[Kumpulan, Bonjol, Pasaman]** – Dunia otomotif selalu memiliki daya tarik tersendiri, tak terkecuali bagi Muhammad Fadel. Kombinasi antara ketertarikannya pada kendaraan tangguh dan kemampuannya dalam desain grafis melahirkan karya infografis teknis yang memukau untuk berbagai kendaraan taktis bernilai tinggi.
+
+**Fokus pada Utilitas dan Standar Desain**
+Dalam proyek terbarunya, Fadel merancang panduan visual yang merinci spesifikasi kendaraan khusus, seperti Black SUV yang dimodifikasi dengan *tactical hardcase* pada kompartemen belakangnya. Desain ini dibuat dengan presisi untuk memenuhi standar "STORMZ Mission-Driver Communication Response". Selain itu, ia juga tengah mengembangkan aset visual untuk purwarupa Mobil Spectromar.
+
+**Menggabungkan Estetika dan Informasi**
+Membuat infografis kendaraan taktis bukan sekadar soal keindahan visual, melainkan bagaimana menyajikan data teknis yang kompleks menjadi informasi yang mudah dipahami dalam sekali pandang. Karya-karya desain otomotif ini semakin melengkapi portofolio Fadel sebagai seorang kreator yang serba bisa dan inovatif.`,
+    isHeadline: false,
+  },
+  {
+    id: 9,
+    title: "Menjelajah Bonjol: Melintasi Khatulistiwa hingga Menelusuri Benteng Paderi di Bukit Tajadi",
+    category: "Traveling",
+    date: "17 Maret 2026",
+    // Menggunakan gambar alam dari internet yang dijamin berfungsi
+    image: "https://images.unsplash.com/photo-1518548419970-58e3b4079ab2?auto=format&fit=crop&q=80&w=1000", 
+    content: `**[Kumpulan, Bonjol, Pasaman]** – Kabupaten Pasaman, khususnya daerah Bonjol, merupakan destinasi lengkap yang menggabungkan nilai sejarah mendalam, kekayaan budaya Minangkabau, dan keindahan alam perbukitan yang asri. Destinasi paling ikonik di sini tentu saja adalah letak geografisnya yang tepat dilintasi oleh garis tengah bumi.
+
+**Pusat Ikon Wisata Bonjol**
+Memulai penjelajahan di Bonjol, wisatawan wajib mengunjungi Tugu Khatulistiwa (Equator Monument). Landmark terkenal ini menyuguhkan bola dunia besar dan jembatan penyeberangan bertuliskan *"You are crossing the equator"*, menjadikannya spot foto sempurna untuk mengabadikan momen berdiri di dua belahan bumi sekaligus.
+
+Tidak jauh dari tugu, berdiri megah Museum Tuanku Imam Bonjol dengan arsitektur Rumah Gadang yang gagah, lengkap dengan patung sang pahlawan menunggang kuda di depannya. Museum ini menjadi pusat edukasi perjuangan Pahlawan Nasional melawan penjajahan. Bagi pecinta petualangan sejarah, mendaki Benteng Bukit Tajadi (sisa pertahanan Kaum Paderi) menawarkan pemandangan lembah hijau yang memukau dan keindahan Gunung Pasaman dari ketinggian. Penjelajahan bisa ditutup dengan menikmati kuliner khas seperti kipang pulut di Desa Wisata Ganggo Hilia.`,
+    isHeadline: false,
+  },
+  {
+    id: 10,
+    title: "Wisata Alam Keluarga Pasaman: Segarnya Rimbo Panti dan Cantiknya Puncak Tonang",
+    category: "Petualangan",
+    date: "16 Maret 2026",
+    // Menggunakan gambar alam dari internet yang dijamin berfungsi
+    image: "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?auto=format&fit=crop&q=80&w=1000",
+    content: `**[Kumpulan, Bonjol, Pasaman]** – Pesona Kabupaten Pasaman tidak hanya berhenti pada sejarah di Bonjol. Bergeser sedikit ke sekitarnya, terhampar berbagai destinasi wisata alam yang menenangkan dan sangat cocok untuk rekreasi keluarga. Udara segar perbukitan dan keramahtamahan lokal menjadi nilai tambah yang memikat.
+
+**Rimbo Panti dan Destinasi Puncak**
+Destinasi utama yang wajib dikunjungi adalah Pemandian Air Panas Rimbo Panti di Kecamatan Panti. Kawasan cagar alam yang asri ini menawarkan keunikan sumber air panas alami yang bisa dinikmati pengunjung untuk relaksasi tubuh, sembari mengamati berbagai flora dan fauna yang dilindungi.
+
+Bagi keluarga yang mencari spot foto *instagramable*, Taman Bunga Puncak Tonang di Sundata adalah jawabannya. Hamparan taman bunga yang tertata rapi menyuguhkan pemandangan cantik untuk bersantai. Opsi lain adalah Puncak Koto Panjang yang dilengkapi wahana permainan seperti motor ATV, rumah pohon, dan ayunan. Jika ingin bermain air, Ambun Water Park (Taluak Ambun) menawarkan kolam renang menyegarkan dengan suasana alam yang sejuk. Destinasi-destinasi ini semakin melengkapi kekayaan pariwisata Pasaman di mata wisatawan nasional.`,
+    isHeadline: false,
+  },
+
+  {
+    id: 11,
+    title: "Deretan Tokoh Besar Kelahiran Pasaman: Dari Pahlawan Nasional hingga Tokoh Bangsa",
+    category: "Sejarah",
+    date: "17 Maret 2026",
+    // Gambar ilustrasi tokoh (bisa diganti dengan foto Tuanku Rao atau Imam Bonjol)
+    image: "https://images.unsplash.com/photo-1572375992501-4b0892d50c69?auto=format&fit=crop&q=80&w=1000",
+    content: `**[Kumpulan, Bonjol, Pasaman]** – Selain sosok Tuanku Imam Bonjol yang telah mendunia, tanah Kabupaten Pasaman merupakan rahim yang melahirkan banyak tokoh besar dengan kontribusi luar biasa bagi sejarah perjuangan Indonesia dan perkembangan ilmu pengetahuan.
+
+**Tuanku Rao: Sang Panglima Perang Paderi**
+Salah satu tokoh sentral yang tak bisa dipisahkan dari sejarah Pasaman adalah Tuanku Rao. Beliau merupakan panglima perang kepercayaan Tuanku Imam Bonjol yang memiliki pengaruh besar di wilayah Pasaman bagian utara (Rao). Nama aslinya adalah Muhammad Zainal, seorang ahli strategi militer dan ulama yang gigih menyebarkan dakwah sekaligus memimpin perlawanan terhadap kolonialisme Belanda di tanah kelahirannya.
+
+**H. Agus Salim: Sang Diplomat Ulung (Keturunan Koto Gadang - Pasaman)**
+Meskipun lahir di Koto Gadang, hubungan sejarah keluarga besar H. Agus Salim memiliki akar yang kuat di wilayah Pasaman. Sebagai "The Grand Old Man" Indonesia, kepiawaiannya dalam diplomasi internasional dan penguasaan banyak bahasa menjadikannya sosok yang sangat dihormati. Jejak pemikiran dan integritasnya menjadi teladan bagi banyak pemuda di Pasaman dalam menempuh jalan pendidikan dan birokrasi.
+
+**Syekh Ibrahim Musa Parabek: Ulama Besar Pembaharu**
+Dunia pendidikan Islam di Sumatera Barat juga sangat berhutang budi pada sosok ulama dari Pasaman ini. Beliau adalah salah satu pelopor pembaruan pendidikan Islam di Minangkabau. Kontribusinya dalam mendirikan lembaga pendidikan formal dan metode belajar yang modern di zamannya membuat nama Pasaman harum di mata para pencari ilmu agama dari berbagai penjuru Nusantara.
+
+**Tokoh Masa Kini dan Inspirasi Daerah**
+Hingga saat ini, Pasaman terus melahirkan putra-putri terbaik di berbagai bidang, mulai dari akademisi, jenderal TNI/Polri, hingga atlet-atlet berprestasi seperti Muhammad Fadel yang baru saja mengharumkan nama Kumpulan FC. Sejarah panjang ini membuktikan bahwa semangat juang dan kecerdasan orang Pasaman adalah warisan turun-temurun yang harus terus dijaga dan dikembangkan oleh generasi masa depan.`,
+    isHeadline: false,
+  },
+
+  {
+    id: 13,
+    title: "Panduan Lokasi: Peta Masjid Strategis di Sepanjang Jalur Kumpulan - Bonjol",
+    category: "Info Lokal",
+    date: "17 Maret 2026",
+    image: "https://i.ytimg.com/vi/u00jpboZ3yg/maxresdefault.jpg",
+    content: `**[Kumpulan, Bonjol, Pasaman]** – Untuk memudahkan masyarakat dan para musafir yang melintasi Kabupaten Pasaman, redaksi Kumpulan News merangkum titik lokasi masjid paling strategis di jalur utama Kumpulan hingga Bonjol. Dengan integrasi data lokasi ini, Anda dapat merencanakan waktu istirahat dan ibadah dengan lebih tepat.
+
+**Pusat Ibadah di Jantung Kumpulan**
+
+http://googleusercontent.com/map_location_reference/1
+[Masjid Raya Darussalam Kumpulan](http://googleusercontent.com/map_location_reference/0) menjadi titik fokus utama di wilayah Koto Kaciak, Kecamatan Bonjol. Sebagai landmark religi di pusat kota, masjid ini menawarkan kenyamanan bagi jemaah dalam jumlah besar.
+* Berlokasi strategis di area pusat keramaian Kumpulan.
+* Menyediakan ruang ibadah yang bersih dan terawat bagi musafir 24 jam.
+
+**Persinggahan Nyaman di Alahan Mati**
+Bagi Anda yang sedang menempuh perjalanan antara Kumpulan dan Padang Sawah, terdapat dua masjid yang sangat mudah diakses karena berada tepat di pinggir jalan raya utama:
+
+http://googleusercontent.com/map_location_reference/3
+1. [Masjid Amal Kp. Baru](http://googleusercontent.com/map_location_reference/2): Terletak di Alahan Mati, masjid ini menjadi pilihan favorit untuk berhenti sejenak karena aksesnya yang praktis dan suasananya yang tenang.
+
+http://googleusercontent.com/map_location_reference/5
+2. [Masjid AT TAQWA](http://googleusercontent.com/map_location_reference/4): Berlokasi di Jalan Kumpulan - Padang Sawah, Simpang. Masjid ini juga terbuka 24 jam dan dikenal memiliki fasilitas yang mendukung kenyamanan jamaah selama perjalanan.
+
+Integrasi informasi lokasi ini diharapkan dapat meningkatkan pelayanan informasi publik bagi warga Pasaman maupun wisatawan yang berkunjung ke tanah kelahiran Tuanku Imam Bonjol.`
   }
 ];
