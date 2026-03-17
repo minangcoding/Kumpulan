@@ -42,9 +42,29 @@ Bagi Bg Difa, kegagalan dalam hubungan bukanlah akhir dari segalanya, melainkan 
 Alih-alih terpuruk dalam kegalauan, Aldy kini fokus pada pengembangan diri (*self-growth*). Ia mulai mendalami berbagai literasi, mengasah keterampilan baru, dan aktif dalam kegiatan sosial yang bermanfaat. Tekadnya sudah bulat: ia ingin menjadi versi terbaik dari dirinya sendiri setiap harinya. Ia percaya bahwa dengan terus berkembang dan memberikan manfaat bagi orang sekitar, kebahagiaan sejati akan datang dengan sendirinya. Inisiatifnya ini menjadi inspirasi bagi generasi muda di Kumpulan untuk tidak mudah menyerah pada keadaan.`,
     isHeadline: false,
   },
-
   {
     id: 3,
+    title: "Dedikasi Bripda Farda Apta Wandri: Torehkan Prestasi Akademik dari Diploma hingga Raih Gelar Sarjana",
+    category: "Inspirasi",
+    date: "17 Maret 2026",
+    image: "/Farda.jpeg", 
+    content: `**[Kumpulan, Bonjol, Pasaman]** – Memiliki karier di kepolisian tidak lantas membuat Farda Apta Wandri, S.Kep, berpuas diri dalam menuntut ilmu. Pemuda yang akrab disapa Bang Difa ini menunjukkan bahwa disiplin sebagai abdi negara dan semangat akademik dapat berjalan beriringan demi memberikan pengabdian terbaik bagi masyarakat.
+
+**Rekam Jejak Pendidikan Kesehatan**
+Ketertarikan Farda pada dunia kesehatan telah terlihat sejak ia menamatkan masa SMA. Ia memilih melanjutkan pendidikan di **Poltekkes Padang** dan berhasil menyelesaikan program **Diploma 3 Keperawatan (A.Md.Kep.)**. Bekal keilmuan medis ini menjadi nilai tambah yang luar biasa ketika ia kemudian memutuskan untuk mengabdi kepada bangsa dan negara melalui institusi Polri.
+
+**Karier Polri dan Pencapaian Gelar Sarjana**
+Saat ini, Farda bertugas dengan pangkat **BRIPDA**. Di tengah kesibukan dan tanggung jawabnya menjaga keamanan dan ketertiban masyarakat, ia tetap konsisten melanjutkan studi ke jenjang yang lebih tinggi. Kerja keras tersebut membuahkan hasil manis; tepat pada Desember 2025, ia resmi dinyatakan lulus sebagai **Sarjana Keperawatan (S.Kep.)**. Pencapaian ini menjadi bukti nyata bahwa kesibukan profesi bukanlah penghalang untuk meraih pendidikan setinggi-tingginya.
+
+**Visi Pengembangan Diri (Self-Growth)**
+Bagi Farda, belajar adalah proses seumur hidup. Ia percaya bahwa peningkatan kualitas diri (*self-growth*) adalah kunci untuk menjadi manusia yang lebih bermanfaat. Dengan latar belakang ilmu keperawatan dan profesinya sebagai polisi, ia memiliki visi untuk selalu hadir sebagai sosok yang tidak hanya tegas dalam penegakan hukum, tetapi juga memiliki empati dan kepedulian tinggi terhadap kemanusiaan.
+
+Dedikasi yang ditunjukkan oleh Farda Apta Wandri di Kumpulan, Pasaman, diharapkan dapat memotivasi generasi muda lainnya. Ia membuktikan bahwa dengan manajemen waktu yang baik dan tekad yang kuat, mimpi untuk meraih gelar akademik tertinggi dapat diwujudkan tanpa harus meninggalkan tanggung jawab pekerjaan.`,
+    isHeadline: false,
+  },
+
+  {
+    id: 4,
     title: "Muhammad Fadel, S.Pd, Resmi Dinobatkan Sebagai Kiper Terbaik Musim Ini Bersama Team Kumpulan FC",
     category: "Olahraga",
     date: "10 Maret 2026",
@@ -65,7 +85,7 @@ Dengan penghargaan ini, ekspektasi terhadap Muhammad Fadel dan Team Kumpulan FC 
     isHeadline: true,
   },
   {
-    id: 4,
+    id: 5,
     title: "Muhammad Fadel Secara Resmi Menamatkan Pendidikan S1 nya di Universitas PGRI Padang Tanggal 26 Februari 2025",
     category: "Pendidikan",
     date: "26 Februari 2025",
@@ -83,7 +103,7 @@ Momen wisuda ini menjadi garis *start* baru bagi perjalanan hidupnya. Di hadapan
     isHeadline: false,
   },
   {
-    id: 5,
+    id: 6,
     title: "Muhammad Fadel Berhasil Summit Gunung Talang 2.597 MDPL",
     category: "Petualangan",
     date: "15 Agustus 2025",
@@ -101,7 +121,7 @@ Bagi Fadel, pendakian ini bukan sekadar ajang pembuktian fisik, melainkan bentuk
     isHeadline: false,
   },
   {
-    id: 6,
+    id: 7,
     title: "Muhammad Fadel Sedang Berada di Jam Gadang Bukik Tinggi",
     category: "Traveling",
     date: "20 Desember 2025",
@@ -119,7 +139,7 @@ Bagi Fadel, perjalanan ke Bukittinggi ini adalah cara terbaik untuk *healing* da
     isHeadline: false,
   },
   {
-    id: 7,
+    id: 8,
     title: "Muhammad Fadel Sedang Berada di Danau Toba",
     category: "Traveling",
     date: "5 Januari 2026",
@@ -137,7 +157,7 @@ Perjalanan ke Danau Toba ini memberikan kesan yang sangat mendalam bagi Muhammad
     isHeadline: false,
   },
   {
-    id: 8,
+    id: 9,
     title: "Muhammad Fadel Sedang Berada di Kebun Binatang Kinantan Bukik Tinggi",
     category: "Traveling",
     date: "22 Desember 2025",
@@ -155,7 +175,7 @@ Kawasan Kinantan menawarkan paket komplit antara wisata fauna, flora, sejarah, d
     isHeadline: false,
   },
   {
-    id: 9,
+    id: 10,
     title: "Muhammad Fadel Sukses Kembangkan Intek Future AI, Tool Editing Gambar Revolusioner",
     category: "Teknologi",
     date: "14 Maret 2026",
@@ -170,7 +190,7 @@ Bagi Fadel, dunia *web development* adalah ruang eksplorasi tanpa batas. Selain 
     isHeadline: false,
   },
   {
-    id: 10,
+    id: 11,
     title: "Desain Infografis Kendaraan Taktis: Menilik Detail Mobil Spectromar dan Black SUV",
     category: "Otomotif",
     date: "10 Maret 2026",
@@ -185,7 +205,7 @@ Membuat infografis kendaraan taktis bukan sekadar soal keindahan visual, melaink
     isHeadline: false,
   },
   {
-    id: 11,
+    id: 12,
     title: "Menjelajah Bonjol: Melintasi Khatulistiwa hingga Menelusuri Benteng Paderi di Bukit Tajadi",
     category: "Traveling",
     date: "17 Maret 2026",
@@ -200,7 +220,7 @@ Tidak jauh dari tugu, berdiri megah Museum Tuanku Imam Bonjol dengan arsitektur 
     isHeadline: false,
   },
   {
-    id: 12,
+    id: 13,
     title: "Wisata Alam Keluarga Pasaman: Segarnya Rimbo Panti dan Cantiknya Puncak Tonang",
     category: "Petualangan",
     date: "16 Maret 2026",
@@ -216,7 +236,7 @@ Bagi keluarga yang mencari spot foto *instagramable*, Taman Bunga Puncak Tonang 
   },
 
   {
-    id: 13,
+    id: 14,
     title: "Deretan Tokoh Besar Kelahiran Pasaman: Dari Pahlawan Nasional hingga Tokoh Bangsa",
     category: "Sejarah",
     date: "17 Maret 2026",
@@ -239,7 +259,7 @@ Hingga saat ini, Pasaman terus melahirkan putra-putri terbaik di berbagai bidang
   },
 
   {
-    id: 14,
+    id: 15,
     title: "Panduan Lokasi: Peta Masjid Strategis di Sepanjang Jalur Kumpulan - Bonjol",
     category: "Info Lokal",
     date: "17 Maret 2026",
