@@ -32,7 +32,7 @@ Kini, jejak perjuangan beliau diabadikan melalui Museum Tuanku Imam Bonjol dan T
     title: "Bangkit dari Patah Hati: Aldy Fadillah (Bg Difa) Temukan Makna Hidup dan Bertekad Jadi Manusia Lebih Baik",
     category: "Inspirasi",
     date: "17 Maret 2026",
-    image: "/Dipa.jpeg", 
+    image: "/Dipa bg.jpg", 
     content: `**[Kumpulan, Bonjol, Pasaman]** – Setiap manusia pasti pernah berada di titik terendahnya, tak terkecuali bagi Aldy Fadillah, atau yang akrab disapa Bg Difa. Setelah melewati fase pahit akibat putus cinta, pemuda ini justru berhasil mengubah kesedihan menjadi energi positif untuk melakukan transformasi diri secara besar-besaran.
 
 **Titik Balik dan Penemuan Makna Hidup**
