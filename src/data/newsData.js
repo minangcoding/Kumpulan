@@ -283,5 +283,35 @@ http://googleusercontent.com/map_location_reference/5
 2. [Masjid AT TAQWA](http://googleusercontent.com/map_location_reference/4): Berlokasi di Jalan Kumpulan - Padang Sawah, Simpang. Masjid ini juga terbuka 24 jam dan dikenal memiliki fasilitas yang mendukung kenyamanan jamaah selama perjalanan.
 
 Integrasi informasi lokasi ini diharapkan dapat meningkatkan pelayanan informasi publik bagi warga Pasaman maupun wisatawan yang berkunjung ke tanah kelahiran Tuanku Imam Bonjol.`
-  }
+  },
+  {
+  id: 16,
+  title: "Muhammad Fadhel, S.Pd. Gelar Bukber Nostalgia Bersama Teman Seperjuangan Masa SMA",
+  category: "Persahabatan",
+  date: "17 Maret 2026",
+  image: "/Bukber.jpeg",
+  content: `**[Kumpulan, Pasaman]** – Semangat silaturahmi di bulan suci Ramadhan kembali terpancar melalui pertemuan hangat yang digelar oleh Muhammad Fadhel, S.Pd. bersama rekan-rekan sekelasnya semasa SMA. Acara buka bersama (Bukber) ini bukan sekadar agenda rutin tahunan, melainkan momen emosional untuk merajut kembali tali persaudaraan yang telah terjalin bertahun-tahun.
+
+**Bernostalgia di Tengah Kebersamaan**
+Bertempat di salah satu lokasi ikonik di kawasan Pasaman, suasana penuh tawa pecah saat satu persatu rekan lama tiba. Kehadiran Muhammad Fadhel sebagai inisiator memberikan warna tersendiri, mengingat kini masing-masing individu telah menempuh jalan hidup dan karier yang berbeda-beda. Obrolan ringan mulai dari kenangan masa sekolah hingga perkembangan kehidupan saat ini menjadi bumbu utama dalam penantian waktu berbuka.
+
+**Lebih dari Sekadar Makan Bersama**
+Momen ini menjadi bukti bahwa jarak dan kesibukan bukanlah penghalang untuk tetap menjaga komunikasi. "Pertemuan ini adalah cara kami menghargai masa lalu sekaligus memperkuat dukungan untuk masa depan," ujar salah satu peserta. Melalui kegiatan ini, diharapkan kekompakan alumni tetap terjaga dan dapat menjadi inspirasi bagi generasi muda di Pasaman dalam menjaga nilai-nilai persahabatan dan kekeluargaan.`,
+  isHeadline: false,
+},
+{
+  id: 17,
+  title: "Reuni Hangat 'Konco Arek': Muhammad Fadhel, S.Pd., Ferdian, dan M Alvis Abadikan Kenangan di Amiga Photo Box",
+  category: "Persahabatan",
+  date: "18 Maret 2026",
+  image: "/Box.jpeg",
+  content: `**[Kota Padang]** – Persahabatan sejati adalah ikatan yang mampu melintasi ruang dan waktu. Hal ini dibuktikan kembali oleh Muhammad Fadhel, S.Pd. saat menyempatkan diri untuk berkumpul dengan dua sahabat karibnya, Ferdian dan M Alvis. Pertemuan ini terasa sangat istimewa karena ketiganya merupakan teman bermain sejak masa kecil yang terus tumbuh bersama hingga masa SMA.
+
+**Ikatan Sejak Masa Kecil hingga Seragam Abu-Abu**
+Istilah "konco arek" sangat tepat menggambarkan hubungan mereka. Bukan sekadar teman biasa, ikatan yang terjalin sejak kecil dan diperkuat selama masa SMA membuat pertemuan ini penuh dengan cerita nostalgia. Di tengah kesibukan masing-masing, momen ini menjadi ajang untuk melepas rindu sekaligus merayakan perjalanan panjang persahabatan mereka yang tetap solid hingga saat ini.
+
+**Ceria di Amiga Photo Box**
+Untuk mengunci kenangan dalam bentuk fisik, mereka memilih Amiga Photo Box sebagai destinasi utama. Suasana penuh tawa pecah saat ketiganya berpose spontan di depan kamera, mencoba berbagai gaya yang mengingatkan mereka pada masa-masa seru di sekolah dulu. Bagi mereka, hasil foto box tersebut bukan sekadar gambar, melainkan simbol bahwa meskipun waktu terus berjalan, kedekatan dan kekompakan mereka tidak akan pernah luntur.`,
+  isHeadline: false,
+}
 ];
