@@ -313,5 +313,20 @@ Istilah "konco arek" sangat tepat menggambarkan hubungan mereka. Bukan sekadar t
 **Ceria di Amiga Photo Box**
 Untuk mengunci kenangan dalam bentuk fisik, mereka memilih Amiga Photo Box sebagai destinasi utama. Suasana penuh tawa pecah saat ketiganya berpose spontan di depan kamera, mencoba berbagai gaya yang mengingatkan mereka pada masa-masa seru di sekolah dulu. Bagi mereka, hasil foto box tersebut bukan sekadar gambar, melainkan simbol bahwa meskipun waktu terus berjalan, kedekatan dan kekompakan mereka tidak akan pernah luntur.`,
   isHeadline: false,
-}
+},
+{
+  id: 18,
+  title: "Aksi Heroik Pemuda Pasaman Tegakkan Marwah: Amankan Pelaku Tindak Asusila demi Penegakan Hukum Islam",
+  category: "Sosial & Religi",
+  date: "18 Maret 2026",
+  image: "/Pebri.png",
+  content: `**[Bonjol, Pasaman]** – Sebuah aksi nyata dalam menjaga marwah dan martabat lingkungan ditunjukkan oleh seorang pemuda pemberani di kawasan Pasaman. Dengan kesigapan dan keberanian tinggi, pemuda ini berhasil melakukan tindakan pencegahan serta mengamankan sepasang oknum di bawah umur yang kedapatan melakukan aksi tidak senonoh di ruang publik.
+
+**Menjaga Marwah di Tengah Minimnya Edukasi**
+Peristiwa yang memprihatinkan ini melibatkan pelaku yang tergolong masih sangat belia dan dinilai masih minim mendapatkan pendidikan serta bimbingan moral yang memadai. Melihat adanya penyimpangan yang mencederai nilai-nilai agama, sang pemuda pemberani tersebut mengambil langkah tegas untuk menghentikan perbuatan tersebut sebelum berkembang menjadi tindakan yang lebih jauh. Tindakan ini dilakukan sebagai bentuk nyata kepedulian terhadap penegakan hukum Islam dan norma sosial yang berlaku di tengah masyarakat.
+
+**Komitmen Amar Ma'ruf Nahi Munkar**
+Aksi penangkapan ini berjalan dengan tertib guna menghindari hal-hal yang tidak diinginkan. Sang pemuda menekankan bahwa apa yang dilakukannya adalah bentuk tanggung jawab kolektif untuk melindungi generasi muda dari pergaulan bebas. Harapannya, kejadian ini menjadi pengingat bagi para orang tua dan pendidik untuk lebih memperketat pengawasan serta membekali anak-anak dengan pemahaman agama yang kuat agar kehormatan diri dan daerah tetap terjaga.`,
+  isHeadline: false,
+},
 ];
