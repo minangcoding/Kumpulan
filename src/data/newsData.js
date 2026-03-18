@@ -319,7 +319,7 @@ Untuk mengunci kenangan dalam bentuk fisik, mereka memilih Amiga Photo Box sebag
   title: "Aksi Heroik Pemuda Pasaman Tegakkan Marwah: Amankan Pelaku Tindak Asusila demi Penegakan Hukum Islam",
   category: "Sosial & Religi",
   date: "18 Maret 2026",
-  image: "/Pebri.png",
+  image: "/Peb.jpeg",
   content: `**[Bonjol, Pasaman]** – Sebuah aksi nyata dalam menjaga marwah dan martabat lingkungan ditunjukkan oleh seorang pemuda pemberani di kawasan Pasaman. Dengan kesigapan dan keberanian tinggi, pemuda ini berhasil melakukan tindakan pencegahan serta mengamankan sepasang oknum di bawah umur yang kedapatan melakukan aksi tidak senonoh di ruang publik.
 
 **Menjaga Marwah di Tengah Minimnya Edukasi**
