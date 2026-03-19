@@ -5,7 +5,7 @@ export const newsData = [
     category: "Sejarah",
     date: "17 Maret 2026",
     // Menggunakan gambar ilustrasi sejarah dari Wikimedia/Internet
-    image: "https://i.ytimg.com/vi/-2vfvDP_EtM/sddefault.jpg", 
+    image: "https://i.ytimg.com/vi/-2vfvDP_EtM/sddefault.jpg",
     content: `**[Kumpulan, Bonjol, Pasaman]** – Menyebut nama Kecamatan Bonjol di Kabupaten Pasaman, ingatan kita pasti akan langsung tertuju pada satu sosok pahlawan nasional yang sangat karismatik, yakni Tuanku Imam Bonjol. Lahir di tanah ini pada tahun 1772, kisah perjuangannya melawan kolonialisme Belanda merupakan salah satu catatan sejarah paling heroik yang pernah terjadi di bumi Nusantara.
 
 **Dari Peto Hasan Menjadi Pemimpin Besar**
@@ -32,7 +32,7 @@ Kini, jejak perjuangan beliau diabadikan melalui Museum Tuanku Imam Bonjol dan T
     title: "Bangkit dari Patah Hati: Aldy Fadillah (Bg Difa) Temukan Makna Hidup dan Bertekad Jadi Manusia Lebih Baik",
     category: "Inspirasi",
     date: "17 Maret 2026",
-    image: "/Dipa bg.jpg", 
+    image: "/Dipa bg.jpg",
     content: `**[Kumpulan, Bonjol, Pasaman]** – Setiap manusia pasti pernah berada di titik terendahnya, tak terkecuali bagi Aldy Fadillah, atau yang akrab disapa Bg Difa. Setelah melewati fase pahit akibat putus cinta, pemuda ini justru berhasil mengubah kesedihan menjadi energi positif untuk melakukan transformasi diri secara besar-besaran.
 
 **Titik Balik dan Penemuan Makna Hidup**
@@ -47,7 +47,7 @@ Alih-alih terpuruk dalam kegalauan, Aldy kini fokus pada pengembangan diri (*sel
     title: "Dedikasi Bripda Farda Apta Wandri: Torehkan Prestasi Akademik dari Diploma hingga Raih Gelar Sarjana",
     category: "Inspirasi",
     date: "17 Maret 2026",
-    image: "/Farda.jpeg", 
+    image: "/Farda.jpeg",
     content: `**[Kumpulan, Bonjol, Pasaman]** – Memiliki karier di kepolisian tidak lantas membuat Farda Apta Wandri, S.Kep, berpuas diri dalam menuntut ilmu. Pemuda yang akrab disapa Bang Difa ini menunjukkan bahwa disiplin sebagai abdi negara dan semangat akademik dapat berjalan beriringan demi memberikan pengabdian terbaik bagi masyarakat.
 
 **Rekam Jejak Pendidikan Kesehatan**
@@ -68,7 +68,7 @@ Dedikasi yang ditunjukkan oleh Farda Apta Wandri di Kumpulan, Pasaman, diharapka
     title: "Muhammad Fadel, S.Pd, Resmi Dinobatkan Sebagai Kiper Terbaik Musim Ini Bersama Team Kumpulan FC",
     category: "Olahraga",
     date: "10 Maret 2026",
-    image: "/Fadel Kiper.jpg", 
+    image: "/Fadel Kiper.jpg",
     content: `**[Kumpulan, Bonjol, Pasaman]** – Perayaan meriah menyelimuti Kumpulan FC setelah penjaga gawang utama mereka, Muhammad Fadel, S.Pd, secara resmi dianugerahi penghargaan sebagai Kiper Terbaik dalam turnamen sepak bola bergengsi musim ini. Penghargaan ini menjadi pengakuan atas serangkaian penampilan gemilang dan konsistensi luar biasa yang ditunjukkan Fadel di bawah mistar gawang sepanjang kompetisi.
 
 **Penampilan Gemilang dan Refleks yang Tak Tertandingi**
@@ -179,7 +179,7 @@ Kawasan Kinantan menawarkan paket komplit antara wisata fauna, flora, sejarah, d
     title: "Muhammad Fadel Sukses Kembangkan Intek Future AI, Tool Editing Gambar Revolusioner",
     category: "Teknologi",
     date: "14 Maret 2026",
-    image: "https://www.gadaibpkb.co.id/wp-content/uploads/2024/08/Gadai-BPKB-Motor.jpeg", 
+    image: "https://www.gadaibpkb.co.id/wp-content/uploads/2024/08/Gadai-BPKB-Motor.jpeg",
     content: `**[Kumpulan, Bonjol, Pasaman]** – Tidak hanya aktif di lapangan hijau dan alam bebas, Muhammad Fadel juga menunjukkan taringnya di dunia digital. Ia baru saja memperkenalkan proyek terbarunya bernama Intek Future AI, sebuah platform pengeditan gambar masa depan yang sebelumnya dikenal dalam purwarupa BiruVision AI.
 
 **Fitur Canggih Berbasis Kecerdasan Buatan**
@@ -210,7 +210,7 @@ Membuat infografis kendaraan taktis bukan sekadar soal keindahan visual, melaink
     category: "Traveling",
     date: "17 Maret 2026",
     // Menggunakan gambar alam dari internet yang dijamin berfungsi
-    image: "https://images.unsplash.com/photo-1518548419970-58e3b4079ab2?auto=format&fit=crop&q=80&w=1000", 
+    image: "https://images.unsplash.com/photo-1518548419970-58e3b4079ab2?auto=format&fit=crop&q=80&w=1000",
     content: `**[Kumpulan, Bonjol, Pasaman]** – Kabupaten Pasaman, khususnya daerah Bonjol, merupakan destinasi lengkap yang menggabungkan nilai sejarah mendalam, kekayaan budaya Minangkabau, dan keindahan alam perbukitan yang asri. Destinasi paling ikonik di sini tentu saja adalah letak geografisnya yang tepat dilintasi oleh garis tengah bumi.
 
 **Pusat Ikon Wisata Bonjol**
@@ -285,48 +285,33 @@ http://googleusercontent.com/map_location_reference/5
 Integrasi informasi lokasi ini diharapkan dapat meningkatkan pelayanan informasi publik bagi warga Pasaman maupun wisatawan yang berkunjung ke tanah kelahiran Tuanku Imam Bonjol.`
   },
   {
-  id: 16,
-  title: "Muhammad Fadhel, S.Pd. Gelar Bukber Nostalgia Bersama Teman Seperjuangan Masa SMA",
-  category: "Persahabatan",
-  date: "17 Maret 2026",
-  image: "/Bukber.jpeg",
-  content: `**[Kumpulan, Pasaman]** – Semangat silaturahmi di bulan suci Ramadhan kembali terpancar melalui pertemuan hangat yang digelar oleh Muhammad Fadhel, S.Pd. bersama rekan-rekan sekelasnya semasa SMA. Acara buka bersama (Bukber) ini bukan sekadar agenda rutin tahunan, melainkan momen emosional untuk merajut kembali tali persaudaraan yang telah terjalin bertahun-tahun.
+    id: 16,
+    title: "Muhammad Fadhel, S.Pd. Gelar Bukber Nostalgia Bersama Teman Seperjuangan Masa SMA",
+    category: "Persahabatan",
+    date: "17 Maret 2026",
+    image: "/Bukber.jpeg",
+    content: `**[Kumpulan, Pasaman]** – Semangat silaturahmi di bulan suci Ramadhan kembali terpancar melalui pertemuan hangat yang digelar oleh Muhammad Fadhel, S.Pd. bersama rekan-rekan sekelasnya semasa SMA. Acara buka bersama (Bukber) ini bukan sekadar agenda rutin tahunan, melainkan momen emosional untuk merajut kembali tali persaudaraan yang telah terjalin bertahun-tahun.
 
 **Bernostalgia di Tengah Kebersamaan**
 Bertempat di salah satu lokasi ikonik di kawasan Pasaman, suasana penuh tawa pecah saat satu persatu rekan lama tiba. Kehadiran Muhammad Fadhel sebagai inisiator memberikan warna tersendiri, mengingat kini masing-masing individu telah menempuh jalan hidup dan karier yang berbeda-beda. Obrolan ringan mulai dari kenangan masa sekolah hingga perkembangan kehidupan saat ini menjadi bumbu utama dalam penantian waktu berbuka.
 
 **Lebih dari Sekadar Makan Bersama**
 Momen ini menjadi bukti bahwa jarak dan kesibukan bukanlah penghalang untuk tetap menjaga komunikasi. "Pertemuan ini adalah cara kami menghargai masa lalu sekaligus memperkuat dukungan untuk masa depan," ujar salah satu peserta. Melalui kegiatan ini, diharapkan kekompakan alumni tetap terjaga dan dapat menjadi inspirasi bagi generasi muda di Pasaman dalam menjaga nilai-nilai persahabatan dan kekeluargaan.`,
-  isHeadline: false,
-},
-{
-  id: 17,
-  title: "Reuni Hangat 'Konco Arek': Muhammad Fadhel, S.Pd., Ferdian, dan M Alvis Abadikan Kenangan di Amiga Photo Box",
-  category: "Persahabatan",
-  date: "18 Maret 2026",
-  image: "/Box.jpeg",
-  content: `**[Kota Padang]** – Persahabatan sejati adalah ikatan yang mampu melintasi ruang dan waktu. Hal ini dibuktikan kembali oleh Muhammad Fadhel, S.Pd. saat menyempatkan diri untuk berkumpul dengan dua sahabat karibnya, Ferdian dan M Alvis. Pertemuan ini terasa sangat istimewa karena ketiganya merupakan teman bermain sejak masa kecil yang terus tumbuh bersama hingga masa SMA.
+    isHeadline: false,
+  },
+  {
+    id: 17,
+    title: "Reuni Hangat 'Konco Arek': Muhammad Fadhel, S.Pd., Ferdian, dan M Alvis Abadikan Kenangan di Amiga Photo Box",
+    category: "Persahabatan",
+    date: "18 Maret 2026",
+    image: "/Box.jpeg",
+    content: `**[Kota Padang]** – Persahabatan sejati adalah ikatan yang mampu melintasi ruang dan waktu. Hal ini dibuktikan kembali oleh Muhammad Fadhel, S.Pd. saat menyempatkan diri untuk berkumpul dengan dua sahabat karibnya, Ferdian dan M Alvis. Pertemuan ini terasa sangat istimewa karena ketiganya merupakan teman bermain sejak masa kecil yang terus tumbuh bersama hingga masa SMA.
 
 **Ikatan Sejak Masa Kecil hingga Seragam Abu-Abu**
 Istilah "konco arek" sangat tepat menggambarkan hubungan mereka. Bukan sekadar teman biasa, ikatan yang terjalin sejak kecil dan diperkuat selama masa SMA membuat pertemuan ini penuh dengan cerita nostalgia. Di tengah kesibukan masing-masing, momen ini menjadi ajang untuk melepas rindu sekaligus merayakan perjalanan panjang persahabatan mereka yang tetap solid hingga saat ini.
 
 **Ceria di Amiga Photo Box**
 Untuk mengunci kenangan dalam bentuk fisik, mereka memilih Amiga Photo Box sebagai destinasi utama. Suasana penuh tawa pecah saat ketiganya berpose spontan di depan kamera, mencoba berbagai gaya yang mengingatkan mereka pada masa-masa seru di sekolah dulu. Bagi mereka, hasil foto box tersebut bukan sekadar gambar, melainkan simbol bahwa meskipun waktu terus berjalan, kedekatan dan kekompakan mereka tidak akan pernah luntur.`,
-  isHeadline: false,
-},
-{
-  id: 18,
-  title: "Aksi Heroik Pemuda Pasaman Tegakkan Marwah: Amankan Pelaku Tindak Asusila demi Penegakan Hukum Islam",
-  category: "Sosial & Religi",
-  date: "18 Maret 2026",
-  image: "/Peb.jpeg",
-  content: `**[Bonjol, Pasaman]** – Sebuah aksi nyata dalam menjaga marwah dan martabat lingkungan ditunjukkan oleh seorang pemuda pemberani di kawasan Pasaman. Dengan kesigapan dan keberanian tinggi, pemuda ini berhasil melakukan tindakan pencegahan serta mengamankan sepasang oknum di bawah umur yang kedapatan melakukan aksi tidak senonoh di ruang publik.
-
-**Menjaga Marwah di Tengah Minimnya Edukasi**
-Peristiwa yang memprihatinkan ini melibatkan pelaku yang tergolong masih sangat belia dan dinilai masih minim mendapatkan pendidikan serta bimbingan moral yang memadai. Melihat adanya penyimpangan yang mencederai nilai-nilai agama, sang pemuda pemberani tersebut mengambil langkah tegas untuk menghentikan perbuatan tersebut sebelum berkembang menjadi tindakan yang lebih jauh. Tindakan ini dilakukan sebagai bentuk nyata kepedulian terhadap penegakan hukum Islam dan norma sosial yang berlaku di tengah masyarakat.
-
-**Komitmen Amar Ma'ruf Nahi Munkar**
-Aksi penangkapan ini berjalan dengan tertib guna menghindari hal-hal yang tidak diinginkan. Sang pemuda menekankan bahwa apa yang dilakukannya adalah bentuk tanggung jawab kolektif untuk melindungi generasi muda dari pergaulan bebas. Harapannya, kejadian ini menjadi pengingat bagi para orang tua dan pendidik untuk lebih memperketat pengawasan serta membekali anak-anak dengan pemahaman agama yang kuat agar kehormatan diri dan daerah tetap terjaga.`,
-  isHeadline: false,
-},
+    isHeadline: false,
+  },
 ];
